@@ -47,13 +47,13 @@ Gender difference plays a significant role in this scenario as people perceive a
 - Influence of gender and education
 From our analyses, we found out that people in the age-groups of 18-45 have tagged most number of comments as 'toxic'. From an education perspective, doctorate students and professionals have fewer number of comments tagged. this can be associated to limited amount of leisure time that doctorate students and working professionals have, hence it can also be interpreted as them being more lenient with the annotations as they will try to finish through their quota of comments as soon as possible.
 
-![Influence of gender and age on annotations.](C:/Users/Frost/Pictures/eda_1.png)
+![Influence of gender and age on annotations.](https://github.com/Aniruddha2994/DATA-512/blob/main/data512_a2/eda_1.PNG)
 
-![Influence of gender and education on annotations.](C:/Users/Frost/Pictures/eda_2.png)
+![Influence of gender and education on annotations.](https://github.com/Aniruddha2994/DATA-512/blob/main/data512_a2/eda_2.PNG)
 
 One interesting information that these graphs show that males have significantly more number of annoations than their female counterparts. But this doesnt mean that males tend to find comments toxic more often. But it is actually the opposite which is shown in the graph below:
 
-![Influence of gender on annotations.](C:/Users/Frost/Pictures/eda_3.png)
+![Influence of gender on annotations.](https://github.com/Aniruddha2994/DATA-512/blob/main/data512_a2/eda_3.PNG)
 
 These plots prove that these is a bias present in the annotations data that originates from the worker demographics.
 
@@ -71,7 +71,7 @@ From the analysis, we found the keywords most associated with 'toxicity' with 'f
 #### Comparative analysis of speech characteristics between toxicity and personal-attacks
 Comments which are considered as toxic when directed towards to certain individual can be categorized as a personal attack. To establish this dynamic, we perform a comparison analysis between the text characteristics of comments labelled as 'personal attacks' and 'toxicity'.
 
-![Comparison of keywords.](C:/Users/Frost/Pictures/eda_4.png)
+![Comparison of keywords.](https://github.com/Aniruddha2994/DATA-512/blob/main/data512_a2/eda_4.PNG)
 
 
 Future work:
